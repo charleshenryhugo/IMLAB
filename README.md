@@ -6,9 +6,10 @@ Here is how to use the codes:
 (3).Put all the '.mat' files of 'TrainModels4Deblocking' into the 'JPEGdeblocking' folder.   
 (4).Put all the '.mat' files of 'TrainingModels4GaussianDenoising5' and 'TrainingModels4GaussianDenoising79' into the 'GaussianDenoising' folder.   
 (5).Put all the '.mat' files of 'TrainingModels4SuperResolution' into the 'SuperResolution' folder.   
-(6).Find 'TNRD.m' in 'IMLABCodes' and open it with MATLAB.   
-(7).Try to run the 'TNRD.m', and you will see a GUI.   
-(8).Good luck!   
+(6).Put 'Testcodes(denoising-deblocking-SR)' into 'IMLABCodes'.   
+(7).Find 'TNRD.m' in 'IMLABCodes' and open it with MATLAB.   
+(8).Try to run the 'TNRD.m', and you will see a GUI.   
+(9).Good luck!   
    
 notes: Use windows OS to run TNRD.m.   
    
