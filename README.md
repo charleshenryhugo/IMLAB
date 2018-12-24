@@ -3,7 +3,7 @@ IMLAB is an image processing software based on TNRD algorithm.
 I developed this with matlab for my bachelor thesis and stopped maintaining it since graduation.
 For the purpose of saving the code, I dragged it to github.
 
-# Instruction
+## Instruction
 IMLAB was only tested on Windows. In case you want to use the code, follow the instructions below.
 
 (1).Download and decompress all zip files.   
